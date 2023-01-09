@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
+  "type": "module",
   "bin": {
     "weather": "weather.js"
   },
